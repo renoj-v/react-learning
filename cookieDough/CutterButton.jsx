@@ -4,7 +4,7 @@ import { drawMetal } from './canvasUtils.js';
 
 const LABELS = {
   star: 'STAR', heart: 'HEART', mushroom: 'SHROOM',
-  circle: 'CIRCLE', flower: 'FLOWER', gingerbread: 'GINGER',
+  circle: 'CIRCLE', flower: 'FLOWER',
   cloud: 'CLOUD', lightning: 'ZAP',
 };
 
